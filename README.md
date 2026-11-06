@@ -1,3 +1,11 @@
+# Instalação e atualização pelo Foundry
+
+Manifesto estável: https://github.com/BonaP/SmartPhoneRPG-FVTT/releases/latest/download/module.json
+
+Na configuração inicial do Foundry, abra **Módulos adicionais → Instalar módulo**, cole esse endereço no campo **URL do manifesto** e instale. Nas próximas versões, use **Verificar atualização/Atualizar**. Feche o mundo antes de atualizar. Aparelhos e conversas ficam nos dados do mundo; preserve também as chaves do perfil do navegador.
+
+A versão 0.8.1 configura a distribuição pelo GitHub; não altera as funcionalidades da 0.8.0. O alvo continua sendo Foundry 14.368, sem ampliar a homologação.
+
 > Atualização 0.8.0: consulte [MESSAGING.md](MESSAGING.md) para contatos, números estruturados, conversas sem chat, grupos e notificações. Os detalhes anteriores abaixo são históricos e podem ter sido substituídos.
 
 # Smartphone RPG — 0.4.0
