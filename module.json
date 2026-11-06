@@ -1,0 +1,23 @@
+{
+  "id": "smartphone-rpg",
+  "title": "Smartphone RPG",
+  "description": "Celulares persistentes, contatos e mensagens privadas supervisionadas pelo GM.",
+  "version": "0.8.0",
+  "compatibility": {
+    "minimum": "14.368",
+    "maximum": "14.368"
+  },
+  "authors": [
+    {
+      "name": "Smartphone RPG"
+    }
+  ],
+  "esmodules": [
+    "scripts/main.mjs"
+  ],
+  "styles": [
+    "styles/phone.css",
+    "styles/device.css"
+  ],
+  "socket": false
+}

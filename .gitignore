@@ -1,0 +1,18 @@
+# Dependências e arquivos locais
+node_modules/
+.env
+.env.*
+!.env.example
+*.log
+coverage/
+.DS_Store
+Thumbs.db
+
+# Dados e backups do Foundry nunca fazem parte do código do módulo
+Data/
+worlds/
+backups/
+*.db
+*.sqlite
+*.sqlite3
+*-receipt.json
